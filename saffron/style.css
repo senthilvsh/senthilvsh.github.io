@@ -4,13 +4,24 @@ html, body {
 }
 
 html {
-    background-color: #ffddbb;
+    background-color: #ddd;
 }
 
 body {
     width: 760px;
     padding: 20px;
-    margin: 10px auto;
+    margin: 0px auto;
     background-color: #ffffff;
+    font-family: "Roboto", sans-serif;
     overflow: auto;
+}
+
+code {
+    font-family: "Roboto Mono", monospace;
+}
+
+.breadcrumb {
+    padding: 15px;
+    margin: 0 -20px;
+    background-color: #ffccaa;
 }
