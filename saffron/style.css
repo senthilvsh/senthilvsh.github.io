@@ -16,8 +16,15 @@ body {
     overflow: auto;
 }
 
+pre {
+    padding: 15px;
+    background-color: #ffeedd;
+}
+
 code {
     font-family: "Roboto Mono", monospace;
+    font-size: 11pt;
+    line-height: 1.5em;
 }
 
 .breadcrumb {
